@@ -1,4 +1,4 @@
-package model;
+package vue;
 
 public class RespireStat {
 	public static void main(String[] args) {
